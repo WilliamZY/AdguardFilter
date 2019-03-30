@@ -1,2 +1,2 @@
-# AdguardFliter
-Adguard Fliter which helps in blocking ads mainly for self using proposes
+# AdguardFilter
+Adguard Filter which helps in blocking ads mainly for self using propose
